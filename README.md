@@ -1,4 +1,4 @@
-# 🗓 Kanban Planner || Basic UI
+# Kanban Planner || Basic UI  🗓 
 
 ![React](https://img.shields.io/badge/React-17.0.1-61dafb)
 ![React Beautiful DND](https://img.shields.io/badge/react_beautiful_dnd-^13.0.0-0baf7c)
