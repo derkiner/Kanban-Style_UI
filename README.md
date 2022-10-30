@@ -7,7 +7,7 @@
 
 ## Features
 - Drag & Dropple Items
-- Responsive design
+- Responsive Design
 
 
 ## Quick Start
