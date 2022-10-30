@@ -6,7 +6,7 @@
 
 
 ## Features
-- Drag & Dropple Items
+- Drag & Droppable Items
 - Responsive Design
 
 
